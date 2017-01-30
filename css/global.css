@@ -1,5 +1,17 @@
+h3 {
+text-align: left
+}
+
 body {
     background: #FFED65;
     color: #000000;
     text-align: center;
+}
+
+p {
+    text-align: left;
+}
+
+ol {
+    text-align: left;
 }
